@@ -10,6 +10,7 @@ public class SpringBootAdmin1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootAdmin1Application.class, args);
+           // 7 1 2 5
 	}
 
 }
